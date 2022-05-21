@@ -1,3 +1,7 @@
+--- 
+layout: home
+---
+
 # Header 1
 Some text
 
