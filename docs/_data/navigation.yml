@@ -1,0 +1,6 @@
+tabs:
+- title: Homepage
+  url: /
+
+- title: CV
+  url: cv.html
