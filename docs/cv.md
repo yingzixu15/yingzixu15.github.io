@@ -6,21 +6,21 @@ tabname: Curriculum Vitae
 
 # Education
 
-## McGill University (2021-Present)
+## McGill University (2021 - Present)
 
 - M.Sc. in Computer Science. 
 - Research in integer parameter estimation.
 - Supervisor: Prof. Xiao-Wen Chang
 - Expected graduation in 2023.
 
-## McGill University (2017-2020)
+## McGill University (2017 - 2020)
 
 - B.A. in Applied Mathematics and Computer Science.
 - Dean's Honour List
 
 # Work Experience
 
-## Teaching Assistant, McGill University (2019-Present)
+## Teaching Assistant, McGill University (2019 - Present)
 
 - Provide teaching assistance to various undergraduate-level computer science courses.
 - Duties include: assignment and exam grading, office hours, assignment design and solution writing, etc.
