@@ -5,7 +5,7 @@ tabname: Homepage
 description: Welcome to my personal website!
 ---
 
-# About me
+# Bonjour / Hi! :wave:
 My name is Yingzi Xu, I am a MSc student in computer science at McGill University at Montreal, QC, Canada. 
 
 My research is focused on integer parameter estimation, which is a theoretical field commonly applied in wireless communication. My supervisor is [Prof. Xiao-Wen Chang](https://www.cs.mcgill.ca/~chang/) at McGill University. 
