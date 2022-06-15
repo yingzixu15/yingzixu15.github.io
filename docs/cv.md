@@ -10,7 +10,7 @@ tabname: Curriculum Vitae
 
 - M.Sc. in Computer Science. 
 - Research in integer parameter estimation.
-- Supervisor: Prof. Xiao-Wen Chang
+- Supervisor: Prof. Xiao-Wen Chang.
 - Expected graduation in 2023.
 
 ## McGill University (2017 - 2020)
@@ -40,7 +40,7 @@ tabname: Curriculum Vitae
 
 # Publication
 
-- X. -W. Chang, Z. Chen and Y. Xu, "On the Randomized Babai Point," 2020 IEEE International Symposium on Information Theory (ISIT), 2020, pp. 1195-1200, doi: 10.1109/ISIT44484.2020.9174519. [[Link]](https://ieeexplore.ieee.org/document/9174519)
+- X. -W. Chang, Z. Chen and Y. Xu, "On the Randomized Babai Point," 2020 IEEE International Symposium on Information Theory (ISIT), 2020, pp. 1195-1200, doi: 10.1109/ISIT44484.2020.9174519. [Link](https://ieeexplore.ieee.org/document/9174519)
 
 # Contact
 
