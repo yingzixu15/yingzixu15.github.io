@@ -23,6 +23,13 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+Here is how LaTeX looks in Jekyll:
+
+The Bayes rule: for events $A, B$ with $P(B)\neq 0$, 
+$$
+P(A|B) = \frac{P(B|A)\cdot P(A)}{P(B)}.
+$$
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

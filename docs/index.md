@@ -14,8 +14,6 @@ Outside of research, I am also interested in data science and web development. I
 
 This is the place where I present some of my projects outside of school. It's still a work in progress. 
 
-For more contents, please refer to the navigation section on the right. 
-
 # Contact me
 - Academic and career related: yingzi.xu@mail.mcgill.ca
 - Any other inquiry: yingzi_xu@yahoo.com
