@@ -14,7 +14,7 @@ I am currently residing in Montreal, Canada, and I plan to stay here in the fore
 
 Before coming to Canada for college, I studied in Wales, UK for two years for my high school education. I was aiming at medical school at that time, which unfortunately didn't work out after trying for two consecutive years. However at this day I can't say for sure that it was not a bless. I am enjoying the field I am in right now, and I love what I'm doing with all of my heart. 
 
-Below are some miscellaneous facts about me that doesn't really belong anywhere:
+Below are some miscellaneous facts about me:
 
 -  I speak Mandarin Chinese as my mother language, and my English is at professional level. I speak okay Japanese and broken French - I am working on improving my French skill!
 - I am a proud mom of a cute crested gecko named Kiss.

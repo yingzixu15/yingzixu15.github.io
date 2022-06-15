@@ -16,7 +16,8 @@ tabname: Curriculum Vitae
 ## McGill University (2017 - 2020)
 
 - B.A. in Applied Mathematics and Computer Science.
-- Dean's Honour List
+- First class honours in Applied Mathematics.
+- Dean's Honour List.
 
 # Work Experience
 
