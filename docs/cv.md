@@ -9,7 +9,7 @@ tabname: Curriculum Vitae
 ## McGill University (2021 - Present)
 
 - M.Sc. in Computer Science. 
-- Research in integer parameter estimation.
+- Research interest: integer parameter estimation (aka signal recovery) for over-determined linear systems. 
 - Supervisor: Prof. Xiao-Wen Chang.
 - Expected graduation in 2023.
 
@@ -28,7 +28,7 @@ tabname: Curriculum Vitae
 
 ## Software Development Intern, Expedia, Montreal, QC (2020)
 
-- Make Spring RESTful API for geo location history tracking.
+- Make Spring RESTful API for geo location history tracking, finding changes between versions and storing them in database. 
 - Write frontend interface for the API with React, and integrated the backend service with the frontend UI. 
 
 # Skills
