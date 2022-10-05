@@ -40,7 +40,7 @@ tabname: Curriculum Vitae
 
 # Projects
 
-- [Montreal Parking Kitten](https://github.com/yingzixu15/mtl_street_parking_finder). This project is still in development, but you can try out the API! It is a Spring Boot service with SQLite as database. For more detailed description, please check out the blog post [here](http://yingzixu15.github.io/project/2022/10/04/montreal-parking-finder.html)!
+- [Montreal Parking Kitten](https://github.com/yingzixu15/mtl_street_parking_finder). This project is still in development, but you can try out the API! It is a Spring Boot service with SQLite as database. For more detailed description, please check out the blog post [here](http://yingzixu15.github.io/project/2022/10/05/montreal-parking-finder.html)!
 
 
 # Publication
