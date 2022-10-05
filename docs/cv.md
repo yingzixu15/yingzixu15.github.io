@@ -53,4 +53,5 @@ tabname: Curriculum Vitae
   - Academic and career: yingzi.xu@mail.mcgill.ca
   - Personal: yingzi_xu@yahoo.com
 - GitHub: https://github.com/yingzixu15
+- LinkedIn: https://www.linkedin.com/in/yingzi-xu-b75b98171
 
