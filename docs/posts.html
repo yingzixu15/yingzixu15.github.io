@@ -9,10 +9,10 @@ tabname: Blog posts
     This section is still under construction. It will hold some presentations of
     my personal side projects. Contents will be added gradually!
   </p>
-  <p>The post below is the auto-generated sample post from Jekyll.</p>
+  <!-- <p>The post below is the auto-generated sample post from Jekyll.</p> -->
   <ul class="posts">
     {% for post in site.posts %}
-      {% if post.is_ready %}
+      {% if post.is_public %}
       <li>
         <span>{{ post.date | date_to_string }}</span> &raquo;
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

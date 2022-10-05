@@ -4,7 +4,7 @@ title:  "Current plan of content"
 tabname: Current plan of content
 date:   2022-06-15
 categories: general
-is_ready: false
+is_public: false
 ---
 
 I plan to put two series of blog posts here. The first one is some data science toy projects to practice my data science skills with. Given the static nature of Jekyll, I don't plan to use anything interactive here, but I may run a separate cloud server instance to toy with some Spring Boot API or interactive data visualisation, and integrate them as part of this blog series. 

@@ -19,6 +19,6 @@ Below are some miscellaneous facts about me:
 -  I speak Mandarin Chinese as my mother language, and my English is at professional level. I speak okay Japanese and broken French - I am working on improving my French skill!
 - I am a proud mom of a cute crested gecko named Kiss.
 - I spend probably way too much time looking at cat pictures on Reddit. However I am quite interested in some ways Reddit works, and a few of my data science project ideas are related to Reddit. 
-- I'm not sure how I feel about today's machine learning, especially deep learning. I think we lack understanding on how it works on the theoretical level, and we are to some extent using it extensively without clearly knowing how and why it works. But, we also often say the results speak for themselves. The extraordinary performance of deep learning technologies may simply just keep on and prove me worrying for nothing in the next couple of decades. 
+- I'm not sure how I feel about deep learning. I think we lack understanding on how it works on the theoretical level, and we are to some extent using it extensively without clearly knowing how and why it works. But, we also often say the results speak for themselves. The extraordinary performance of deep learning technologies may simply just keep on and prove me worrying for nothing in the next couple of decades. 
 
 I am still working on this website, therefore I will come back and update this section from time to time. Feel free to reach out to me through my email! 

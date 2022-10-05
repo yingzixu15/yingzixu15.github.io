@@ -9,9 +9,9 @@ tabname: Curriculum Vitae
 ## McGill University (2021 - Present)
 
 - M.Sc. in Computer Science. 
-- Research interest: integer parameter estimation (aka signal recovery) for over-determined linear systems. 
+- Research interest: integer parameter estimation.
 - Supervisor: Prof. Xiao-Wen Chang.
-- Expected graduation in 2023.
+- Expected graduation in April 2023.
 
 ## McGill University (2017 - 2020)
 
@@ -28,7 +28,7 @@ tabname: Curriculum Vitae
 
 ## Software Development Intern, Expedia, Montreal, QC (2020)
 
-- Make Spring RESTful API for geo location history tracking, finding changes between versions and storing them in database. 
+- Make Spring RESTful API for geo location history tracking, finding changes between versions and storing them in PostgreSQL. 
 - Write frontend interface for the API with React, and integrated the backend service with the frontend UI. 
 
 # Skills
@@ -37,6 +37,11 @@ tabname: Curriculum Vitae
 - Framework: Spring, JUnit5. 
 - Good LaTeX skills for writing well-formatted documents.
 - Languages: English, Chinese (native).
+
+# Projects
+
+- [Montreal Parking Kitten](https://github.com/yingzixu15/mtl_street_parking_finder). This project is still in development, but you can try out the API! It is a Spring Boot service with SQLite as database. For more detailed description, please check out the blog post [here](http://yingzixu15.github.io/project/2022/10/04/montreal-parking-finder.html)!
+
 
 # Publication
 
